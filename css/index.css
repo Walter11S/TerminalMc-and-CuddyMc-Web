@@ -1,0 +1,83 @@
+* {
+  background-color: #304158;
+}
+html {
+  background: #304158;
+}
+  
+/*  icons and buttons
+#Web_Banner{
+  height: 100px;
+  position: relative;
+  left: 2px;
+  top: -45px;
+}
+#Icon_Banner {
+  height: 90px;
+  position: relative;
+  left: 30px;
+  top: 45px;
+}
+.button_invite {
+  top: 10px;
+  left: -120px;
+  height: 40px;
+  width: 150px;
+  color: #fff;
+}
+.button_server {
+  left: -120px;
+  top: 15px;
+  height: 40px;
+  width: 150px;
+  color: #fff;
+}
+.button_commands {
+  left: -120px;
+  top: 140px;
+  height: 40px;
+  width: 150px;
+  color: #fff;
+}
+.id_github {
+  position: relative;
+  height: 20px;
+  top: 300px;
+  left: -150px;
+}
+.icon_github {
+  position: relative;
+  height: 40px;
+  top: 300px;
+  left: -155px;
+}
+.id_discord {
+  position: relative;
+  height: 10px;
+  top: 250px;
+  
+}
+.icon_discord {
+  position: relative;
+  height: 40px;
+  top: 260px;
+  left: 5px;
+}*/
+
+.banner {
+  height: 140px;
+}
+.Support_Server {
+  position: relative;
+  left: 60px;
+}
+.Add_Server {
+  position: relative;
+  left: 30px;
+}
+.Commands {
+  position: relative;
+  height: 10px;
+  top: -20px;
+  left: 40px;
+}
