@@ -1,6 +1,10 @@
 * {
   background-color: #304158;
 }
+html {
+  background: #304158;
+}
+  
 /*  icons and buttons
 #Web_Banner{
   height: 100px;
