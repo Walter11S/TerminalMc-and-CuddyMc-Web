@@ -1,1 +1,26 @@
+* {
+  padding: 0px;
+  margin: 0px
+  font-family: Century Gothic;
+}
 
+.home {
+  display: flex;
+  flex-wrap: wrap;
+}
+.in-flex {
+  flex: 1;
+  min-width: 300px;
+}
+.in-flex:first-child {
+  flex: 2;
+  padding: 25px;
+  background: #304158;
+  margin: 20px
+  margin-bottom: 0px;
+}
+.in-flex div {
+  padding: 25px;
+  background: #22334b;
+  margin: 20px;
+}
