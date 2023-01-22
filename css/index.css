@@ -1,83 +1,133 @@
-* {
+body {
   background-color: #304158;
 }
-html {
-  background: #304158;
-}
-  
-/*  icons and buttons
-#Web_Banner{
-  height: 100px;
-  position: relative;
-  left: 2px;
-  top: -45px;
-}
-#Icon_Banner {
-  height: 90px;
-  position: relative;
-  left: 30px;
-  top: 45px;
-}
-.button_invite {
-  top: 10px;
-  left: -120px;
-  height: 40px;
-  width: 150px;
-  color: #fff;
-}
-.button_server {
-  left: -120px;
-  top: 15px;
-  height: 40px;
-  width: 150px;
-  color: #fff;
-}
-.button_commands {
-  left: -120px;
-  top: 140px;
-  height: 40px;
-  width: 150px;
-  color: #fff;
-}
-.id_github {
-  position: relative;
-  height: 20px;
-  top: 300px;
-  left: -150px;
-}
-.icon_github {
-  position: relative;
-  height: 40px;
-  top: 300px;
-  left: -155px;
-}
-.id_discord {
-  position: relative;
-  height: 10px;
-  top: 250px;
-  
-}
-.icon_discord {
-  position: relative;
-  height: 40px;
-  top: 260px;
-  left: 5px;
-}*/
-
 .banner {
   height: 140px;
+  left: 15px;
 }
 .Support_Server {
   position: relative;
   left: 60px;
+  color: #fff;
 }
 .Add_Server {
   position: relative;
   left: 30px;
+  color: #fff;
 }
-.Commands {
+/*.Commands {
   position: relative;
   height: 10px;
   top: -20px;
-  left: 40px;
+  left: 40px;*/
+}
+.info_1 {
+  color: #fff;
+  position: relative;
+  background: #22334b;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 20px;
+}
+.info_2 {
+  color: #fff;
+  position: relative;
+  background: #22334b;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 20px;
+}
+.info_3 {
+  color: #fff;
+  position: relative;
+  background: #22334b;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 20px;
+}
+.info_3 {
+  color: #fff;
+  position: relative;
+  background: #22334b;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 20px;
+}
+.info_4 {
+  color: #fff;
+  position: relative;
+  background: #22334b;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 20px;
+}
+.info_5 {
+  color: #fff;
+  position: relative;
+  background: #22334b;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 20px;
+}
+.info_6 {
+  color: #fff;
+  position: relative;
+  background: #22334b;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 20px;
+}
+.info_7 {
+  color: #fff;
+  position: relative;
+  background: #22334b;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 20px;
+}
+.img_channel {
+  height: 130px;
+}
+.img_help {
+  position: relative;
+  height: 200px;
+  left: 30px;
+}
+.img_info {
+  position: relative;
+  height: 200px;
+  left: 30px;
+}
+.img_mcserver {
+  position: relative;
+  height: 140px;
+  left: 5px;
+}
+.img_invite {
+  position: relative;
+  height: 140px;
+  left: 5px;
+}
+.img_updates {
+  position: relative;
+  height: 200px;
+  left: 1px;
+}
+.title {
+  position: relative;
+  left: 80px;
+  top: -10px
+}
+.info_breve {
+  position: relative;
+  padding: 20px;
+  left: 15px;
 }
