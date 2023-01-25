@@ -3,29 +3,26 @@ body {
 }
 .banner {
   height: 140px;
-  left: 35px;
+  position: relative;
+  left: 25px;
 }
 .Support_Server {
   position: relative;
-  left: 60px;
+  left: 75px;
   color: #fff;
 }
 .Add_Server {
   position: relative;
-  left: 50px;
-  color: #fff;
-}
-.GitHub{
-  position: relative;
-  left: 60px;
+  left: 65px;
   color: #fff;
 }
 /*.Commands {
   position: relative;
   height: 10px;
   top: -20px;
-  left: 40px;*/
-}
+  left: 40px;
+  }*/
+
 .info_1 {
   color: #fff;
   position: relative;
@@ -103,13 +100,13 @@ body {
 }
 .img_help {
   position: relative;
-  height: 200px;
-  left: 30px;
+  height: 230px;
+  left: 50px;
 }
 .img_info {
   position: relative;
-  height: 200px;
-  left: 30px;
+  height: 230px;
+  left: 20px;
 }
 .img_mcserver {
   position: relative;
@@ -119,20 +116,59 @@ body {
 .img_invite {
   position: relative;
   height: 140px;
-  left: 5px;
+  left: 30px;
 }
 .img_updates {
   position: relative;
-  height: 200px;
-  left: 1px;
+  height: 250px;
+  left: 40px;
 }
 .title {
   position: relative;
-  left: 80px;
-  top: -10px
+  left: 120px;
+  top: 22px;
+  z-index: 50;
+}
+.title_2 {
+  position: relative;
+  left: 120px;
 }
 .info_breve {
   position: relative;
   padding: 20px;
   left: 15px;
+}
+.link {
+  color: #fff;
+}
+.imgs_title_2 {
+  position: relative;
+  height: 250px;
+  left: 45px;
+}
+.imgs_title_1 {
+  position: relative;
+  height: 250px;
+  left: 45px;
+  top: 20px;
+}
+.faqs {
+  color: #fff;
+  position: relative;
+  background: #22334b;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 20px;
+  width: 300px;
+  left: 25px;
+}
+.texto_2 {
+  position: relative;
+  top: 10px;
+}
+.Minecraft_Updates {
+  position: relative;
+  height: 300px;
+  left: 20px;
 }
