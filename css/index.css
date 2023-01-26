@@ -10,11 +10,13 @@ body {
   position: relative;
   left: 75px;
   color: #fff;
+  z-index: 200;
 }
 .Add_Server {
   position: relative;
   left: 65px;
   color: #fff;
+  z-index: 300;
 }
 /*.Commands {
   position: relative;
