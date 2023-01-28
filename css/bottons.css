@@ -1,1 +1,64 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+div {
+  position: relative;
+  padding: 10px 15px;
+  border: none;
+  outline: none;
+  color: #fff;
+  cursor: pointer;
+  transition: .5s;
+  overflow: hidden;
+}
+div.hover {
+  color: #fff;
+}
+div span{
+  position: absolute;
+  background: #fff;
+  transition: .5s;
+}
+
+div span:nth-child(1) {
+  width: 100%;
+  height: 1px;
+  top: 0;
+  left: -100%;
+}
+
+div span:nth-child(2) {
+  width: 100%;
+  height: 1px;
+  bottom: 0;
+  right: -100%;
+}
+
+div span:nth-child(3) {
+  width: 1px;
+  height: 100%;
+  bottom: -100%;
+  left: 0;
+}
+div span:nth-child(4) {
+  width: 1px;
+  height: 100%;
+  top: 100%;
+  right: 0;
+}
+div:hover span:nth-child(1) {
+  left: 0;
+}
+div:hover span:nth-child(2) {
+  right: 0;
+}
+div:hover span:nth-child(3) {
+  bottom: 0;
+}
+div:hover span:nth-child(4) {
+  top: 0;
+}
+
 
