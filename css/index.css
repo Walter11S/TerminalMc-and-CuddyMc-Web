@@ -1,0 +1,169 @@
+body {
+  background-color: #304158;
+}
+.banner {
+  height: 140px;
+  position: relative;
+  left: 25px;
+}
+.Support_Server {
+  position: relative;
+  left: 75px;
+  color: #fff;
+  z-index: 200;
+}
+.Add_Server {
+  position: relative;
+  left: 65px;
+  color: #fff;
+  z-index: 300;
+}
+.info_1 {
+  color: #fff;
+  position: relative;
+  background: #22334b;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 20px;
+}
+.info_2 {
+  color: #fff;
+  position: relative;
+  background: #22334b;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 20px;
+}
+.info_3 {
+  color: #fff;
+  position: relative;
+  background: #22334b;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 20px;
+}
+.info_3 {
+  color: #fff;
+  position: relative;
+  background: #22334b;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 20px;
+}
+.info_4 {
+  color: #fff;
+  position: relative;
+  background: #22334b;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 20px;
+}
+.info_5 {
+  color: #fff;
+  position: relative;
+  background: #22334b;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 20px;
+}
+.info_6 {
+  color: #fff;
+  position: relative;
+  background: #22334b;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 20px;
+}
+.info_7 {
+  color: #fff;
+  position: relative;
+  background: #22334b;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 20px;
+}
+.img_channel {
+  height: 130px;
+}
+.img_help {
+  position: relative;
+  height: 230px;
+  left: 50px;
+}
+.img_info {
+  position: relative;
+  height: 230px;
+  left: 20px;
+}
+.img_mcserver {
+  position: relative;
+  height: 140px;
+  left: 5px;
+}
+.img_invite {
+  position: relative;
+  height: 140px;
+  left: 30px;
+}
+.img_updates {
+  position: relative;
+  height: 250px;
+  left: 40px;
+}
+.title {
+  position: relative;
+  left: 120px;
+  top: 22px;
+  z-index: 50;
+}
+.title_2 {
+  position: relative;
+  left: 120px;
+}
+.info_breve {
+  position: relative;
+  padding: 20px;
+  left: 15px;
+}
+.link {
+  color: #fff;
+}
+.imgs_title_2 {
+  position: relative;
+  height: 250px;
+  left: 45px;
+}
+.imgs_title_1 {
+  position: relative;
+  height: 250px;
+  left: 45px;
+  top: 20px;
+}
+.faqs {
+  color: #fff;
+  position: relative;
+  background: #22334b;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 20px;
+  width: 300px;
+  left: 25px;
+}
+.texto_2 {
+  position: relative;
+  top: 10px;
+}
+.Minecraft_Updates {
+  position: relative;
+  height: 300px;
+  left: 20px;
+}
