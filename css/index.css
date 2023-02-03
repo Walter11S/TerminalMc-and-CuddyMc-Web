@@ -4,19 +4,21 @@ body {
 .banner {
   height: 140px;
   position: relative;
-  left: 25px;
+  left: 30px;
 }
 .Support_Server {
   position: relative;
   left: 75px;
   color: #fff;
   z-index: 200;
+  text-decoration: none;
 }
 .Add_Server {
   position: relative;
   left: 65px;
   color: #fff;
   z-index: 300;
+  text-decoration: none;
 }
 .info_1 {
   color: #fff;
