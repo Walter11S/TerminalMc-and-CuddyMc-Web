@@ -9,7 +9,6 @@ div {
   border: none;
   outline: none;
   color: #fff;
-  cursor: pointer;
   transition: .5s;
   overflow: hidden;
 }
