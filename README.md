@@ -2,6 +2,8 @@
 
 > Este repositorio es para la página web del bot, el código fuerte del bot no se publicará de momento, cualquier duda o pregunta en el servidor de <a href="https://discord.gg/ZZFXBxJXjv">discord</a>
 
+  <img src="https://profile-counter.glitch.me/Walter11S/count.svg" />
+
 
 ## Página Web: <br>
 &nbsp;
