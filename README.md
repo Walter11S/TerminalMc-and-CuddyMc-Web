@@ -4,7 +4,7 @@
 
 ## Página Web: <br>
 &nbsp;
-[![página](https://badgen.net/badge/Sitioweb/📲/black?icon=chrome)](https://terminalmc.vercel.app)
+[![página](https://badgen.net/badge/Sitio/Web/black?icon=chrome)](https://terminalmc.vercel.app)
 <br>
 <br>
 
@@ -27,4 +27,4 @@ El bot esta hecho con [Discord Js](https://github.com/discordjs/discord.js)
 
 
 [![Añademe a tu servidor](https://badgen.net/badge/Añademe/📌/black?icon=discord)](https://discord.com/oauth2/authorize?client_id=1016056366063964181&scope=bot%20applications.commands&permissions=2146958847)
-[![Server](https://badgen.net/badge/Soporté/🖥️/black?icon=discord)](https://discord.gg/ZZFXBxJXjv)
+[![Server](https://badgen.net/badge/Soporte/🖥️/black?icon=discord)](https://discord.gg/ZZFXBxJXjv)
