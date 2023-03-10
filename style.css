@@ -1,0 +1,55 @@
+@font-face {
+  font-family: 'mc-font';
+  src: url('font/MinecraftTen-VGORe.ttf');
+}
+/*Títulos*/
+.title {
+  position: relative;
+  font-family: mc-font;
+  bottom: -20px
+}
+* {
+  background-color: #304158;
+  color: #fff;
+}
+
+.descripcion {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  max-width: 95%;
+  font-family: Sans-Serif;
+}
+
+.container {
+  margin: 40px auto;
+  max-width: 95%;;
+  font-family: mc-font;
+}
+
+.box {
+  position: relative;
+  text-align: center;
+  border-color: #fff;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 20px;
+  margin: 30px;
+}
+
+.footer {
+  position: relative;
+  bottom: -65px;
+}
+.github {
+  margin: 35px;
+  width: 35px;
+  position: relative;
+  left: -5px;
+}
+.Discord {
+  margin: 35px;
+  width: 35px;
+  position: relative;
+  left: 5px;
+}
